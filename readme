@@ -48,6 +48,5 @@ sudo ufw allow 9001/tcp
 sudo ufw allow 9002/tcp
 sudo ufw allow 9003/tcp
 
-#Start your Ocean Node
 #Check logs
 docker-compose logs -f
